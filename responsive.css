@@ -1,0 +1,85 @@
+@media only screen and (max-width: 995px) 
+{
+    #opis .image-container
+    {
+        margin: auto;
+        
+    }
+    
+    #opis .photo
+    {
+        margin: auto;
+        text-align: center;
+        width: 70%;
+    }
+    
+    #opis2 .photo
+    {
+        width: 70%;
+    }
+    
+    #opis2 .image-container
+    {
+        margin: auto;
+        
+    }
+    
+    #opis h2
+    {
+        text-align: center;
+    }
+    
+    #opis 
+    {
+        text-align: center;
+    }
+    
+    #opis2
+    {
+        text-align: center;
+    }
+    
+    #bottom-photo
+    {
+       display: none;
+    }
+    
+    #top-photo
+    {
+        display: block;
+        margin: auto;
+    }
+    
+    #opis3 img
+    {
+        width: 60%;
+    }
+      
+}
+
+@media only screen and (max-width: 600px) 
+{
+    #main-heading>h1
+    {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+    
+    #main-heading>p
+    {
+        font-size: 20px;
+    }
+    
+    #main-heading #button
+    {
+        width: 80%;
+    }
+    
+    #opis .button-link, #opis2 .button-link, #opis3 .button-link
+    {
+        width: 100%;
+    }
+    
+    
+    
+}
